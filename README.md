@@ -61,7 +61,7 @@ Certifique-se de que o **backend esteja rodando antes do frontend**.
 2. O **frontend em React** se comunica com o backend via Axios.  
    - Lista todas as anotações em cards  
    - Permite criar, editar e excluir  
-   - Layout responsivo, com rolagem em textos longos e botão de excluir destacado  
+   - Layout responsivo, com rolagem em textos longos e botão de excluir e editar destacados
 
 3. O **banco SQLite** garante persistência local sem necessidade de instalação de um servidor de banco de dados.  
 

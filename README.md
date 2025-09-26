@@ -41,7 +41,7 @@ O servidor será iniciado em **http://localhost:3000**
 ```bash
 cd frontend
 npm install
-npm start
+PORT=3001 npm start
 ```
 A aplicação React será iniciada em **http://localhost:3001**  
 
